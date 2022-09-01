@@ -5,3 +5,5 @@
 #Kelas: E
 
 #Hobi: Ngoding
+
+#Makanan Favorit: Ayam
